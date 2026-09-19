@@ -147,10 +147,9 @@ Powered by Unstop · Sponsored by Lovable
 
 ## 👤 Author
 
-Built solo by [Your Name] in 24 hours.
+Built solo by [Md shameel] in 24 hours.
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
+- LinkedIn: www.linkedin.com/in/mdshameel
 
 ---
 
