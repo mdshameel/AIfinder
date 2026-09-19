@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_001",
+      "email": "demo@aifinder.io",
+      "passwordHash": "8be20286aed6469c1474b3883658bed19d93674bd3dc12809102b5fe26a91d8beca2bc74407d6c68d82cec69558ee66e431d56feb331553a348873ad53f413de",
+      "salt": "cc4382437033090eed3f18c700522412",
+      "name": "Demo Architect",
+      "createdAt": "2026-09-19T15:03:56.032Z"
+    },
+    {
+      "id": "usr_8c00f43e-ac1d-47d2-9766-22f14b95cf2a",
+      "email": "testuser@aifinder.io",
+      "passwordHash": "ecb3a23ceb298503e4b5d882cd091a4928862407a46fe0db012aa72657be1e1e6524e402478426e947246933e1423a030594cbd20ee1d4eb9123d1f703345d07",
+      "salt": "0aaa4cc6ccc7f374d1b93ba874684591",
+      "name": "Test User",
+      "createdAt": "2026-09-19T15:07:23.104Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "tok_c110d0e78bf2f608b3eed39086c68fde05770f8c7d9138750d0edfe911cbcd86",
+      "userId": "usr_demo_001",
+      "createdAt": 1789830440490
+    },
+    {
+      "token": "tok_fc20e5684460d1665f74952aa32223ba3408cbd518563700f3d7a5a7af069216",
+      "userId": "usr_8c00f43e-ac1d-47d2-9766-22f14b95cf2a",
+      "createdAt": 1789830443104
+    },
+    {
+      "token": "tok_6836c91a3ffe0e5859a890cc0e70b2848fc2b916c458013a40694544937c5afa",
+      "userId": "usr_demo_001",
+      "createdAt": 1789830465721
+    }
+  ],
+  "histories": [
+    {
+      "userId": "usr_demo_001",
+      "searches": [
+        {
+          "id": "test1",
+          "query": "video editing with captions",
+          "timestamp": "2026-09-19T00:00:00Z",
+          "toolCount": 3,
+          "tools": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+import React from 'react';
+
+interface LogoProps {
+  className?: string;
+  size?: number | string;
+}
+
+export const Logo: React.FC<LogoProps> = ({ className = 'w-8 h-8', size }) => {
+  return (
+    <svg
+      viewBox="0 0 512 512"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      className={className}
+      style={size ? { width: size, height: size } : undefined}
+      aria-label="AIFinder Logo"
+    >
+      {/* Rounded Squircle Base */}
+      <rect
+        x="20"
+        y="20"
+        width="472"
+        height="472"
+        rx="108"
+        ry="108"
+        fill="#FFFFFF"
+        stroke="#E2E4E9"
+        strokeWidth="6"
+      />
+
+      {/* Primary Cardinal 4-Point Star (Vibrant Royal Blue) */}
+      <path
+        d="M 256 100 
+           L 274 216 
+           L 378 236 
+           L 274 256 
+           L 256 372 
+           L 238 256 
+           L 134 236 
+           L 238 216 Z"
+        fill="#3843EE"
+      />
+
+      {/* Secondary Diagonal 4-Point Star (Lavender / Periwinkle Blue) */}
+      <path
+        d="M 256 208 
+           L 322 172 
+           L 284 236 
+           L 322 300 
+           L 256 264 
+           L 190 300 
+           L 228 236 
+           L 190 172 Z"
+        fill="#7282F8"
+      />
+
+      {/* Magnifying Glass (Matte Charcoal) in Lower-Right */}
+      <circle
+        cx="330"
+        cy="378"
+        r="32"
+        stroke="#252528"
+        strokeWidth="18"
+        fill="none"
+      />
+      <path
+        d="M 353 401 L 387 435"
+        stroke="#252528"
+        strokeWidth="18"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+};

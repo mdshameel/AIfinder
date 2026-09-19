@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Lovable.dev",
+    "description": "Full-stack app builder that converts natural language text descriptions directly into fully editable GitHub-ready repositories with Supabase authentication and database.",
+    "pricing_tier": "Freemium",
+    "category": "Code & Web Apps",
+    "skill_level": "Beginner",
+    "website_url": "https://lovable.dev"
+  },
+  {
+    "name": "Cursor",
+    "description": "AI-first code editor fork of VS Code with smart multi-file edits, codebase indexing, terminal command generation, and instant context-aware diffs.",
+    "pricing_tier": "Freemium",
+    "category": "Code & Web Apps",
+    "skill_level": "Developer",
+    "website_url": "https://www.cursor.com"
+  },
+  {
+    "name": "v0 by Vercel",
+    "description": "Generative user interface system rendering production-ready React component code backed by Tailwind CSS, Radix UI, and Shadcn UI.",
+    "pricing_tier": "Freemium",
+    "category": "Code & Web Apps",
+    "skill_level": "Developer",
+    "website_url": "https://v0.dev"
+  },
+  {
+    "name": "Bolt.new",
+    "description": "In-browser developer environment using WebContainers to prompt, run, edit, and deploy full-stack Node.js and React applications entirely in the client browser.",
+    "pricing_tier": "Free",
+    "category": "Code & Web Apps",
+    "skill_level": "Beginner",
+    "website_url": "https://bolt.new"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer embedded into code editors providing real-time autocomplete suggestions, doc generation, unit tests, and terminal assistance.",
+    "pricing_tier": "Paid",
+    "category": "Code & Web Apps",
+    "skill_level": "Developer",
+    "website_url": "https://github.com/features/copilot"
+  },
+  {
+    "name": "Replit Agent",
+    "description": "Autonomous development agent that plans, scaffolds, codes, installs dependencies, and deploys full-stack web applications inside cloud containers.",
+    "pricing_tier": "Paid",
+    "category": "Code & Web Apps",
+    "skill_level": "Beginner",
+    "website_url": "https://replit.com"
+  },
+  {
+    "name": "Runway Gen-3 Alpha",
+    "description": "Industry benchmark for high-fidelity generative AI video, offering cinematic realism, camera trajectory motion control, and text-to-video generation.",
+    "pricing_tier": "Paid",
+    "category": "Video & Animation",
+    "skill_level": "Developer",
+    "website_url": "https://runwayml.com"
+  },
+  {
+    "name": "Luma Dream Machine",
+    "description": "High-speed generative video transformer delivering fast iteration cycles, realistic physics, smooth camera movements, and character coherence.",
+    "pricing_tier": "Freemium",
+    "category": "Video & Animation",
+    "skill_level": "Beginner",
+    "website_url": "https://lumalabs.ai/dream-machine"
+  },
+  {
+    "name": "Kling AI 1.5",
+    "description": "Advanced video motion simulation modeling multi-second character physical interaction, fluid motions, and high temporal consistency up to 1080p.",
+    "pricing_tier": "Freemium",
+    "category": "Video & Animation",
+    "skill_level": "Beginner",
+    "website_url": "https://klingai.com"
+  },
+  {
+    "name": "HeyGen",
+    "description": "Studio-quality AI video generator creating realistic digital avatars, multi-language speech dubbing with authentic voice cloning, and personalized outreach.",
+    "pricing_tier": "Freemium",
+    "category": "Video & Animation",
+    "skill_level": "Beginner",
+    "website_url": "https://www.heygen.com"
+  },
+  {
+    "name": "Descript",
+    "description": "All-in-one video and podcast editor that lets you edit video by editing the text transcript, featuring studio sound enhancement, auto-captions, and filler word removal.",
+    "pricing_tier": "Freemium",
+    "category": "Video & Animation",
+    "skill_level": "Beginner",
+    "website_url": "https://www.descript.com"
+  },
+  {
+    "name": "Pika",
+    "description": "Idea-to-video platform specializing in dynamic 3D effects, sound effect generation, lip sync, and modifying specific regions inside video scenes.",
+    "pricing_tier": "Freemium",
+    "category": "Video & Animation",
+    "skill_level": "Beginner",
+    "website_url": "https://pika.art"
+  },
+  {
+    "name": "Jasper",
+    "description": "Enterprise AI marketing platform built for teams to produce on-brand blog posts, ad copy, marketing emails, and SEO-optimized campaign collateral.",
+    "pricing_tier": "Paid",
+    "category": "Writing & SEO",
+    "skill_level": "Beginner",
+    "website_url": "https://www.jasper.ai"
+  },
+  {
+    "name": "Copy.ai",
+    "description": "AI-powered copywriter and GTM automation engine designed for drafting marketing content, cold outreach, social posts, and product descriptions.",
+    "pricing_tier": "Freemium",
+    "category": "Writing & SEO",
+    "skill_level": "Beginner",
+    "website_url": "https://www.copy.ai"
+  },
+  {
+    "name": "Writesonic",
+    "description": "SEO-focused article writer and content platform with built-in keyword research, real-time Google search grounding, and competitive content scoring.",
+    "pricing_tier": "Freemium",
+    "category": "Writing & SEO",
+    "skill_level": "Beginner",
+    "website_url": "https://writesonic.com"
+  },
+  {
+    "name": "Grammarly",
+    "description": "Comprehensive writing assistant that checks grammar, spelling, punctuation, clarity, engagement, and delivery tone across browser tabs and desktop apps.",
+    "pricing_tier": "Free",
+    "category": "Writing & SEO",
+    "skill_level": "Beginner",
+    "website_url": "https://www.grammarly.com"
+  },
+  {
+    "name": "Notion AI",
+    "description": "Integrated workspace AI that drafts documents, summarizes notes, creates task action items, and queries company knowledge directly inside Notion pages.",
+    "pricing_tier": "Paid",
+    "category": "Writing & SEO",
+    "skill_level": "Beginner",
+    "website_url": "https://www.notion.so/product/ai"
+  },
+  {
+    "name": "Claude 3.5 Sonnet",
+    "description": "State-of-the-art reasoning model excelling at complex analytical writing, code understanding, nuance, long-form synthesis, and artifact generation.",
+    "pricing_tier": "Freemium",
+    "category": "Writing & SEO",
+    "skill_level": "Developer",
+    "website_url": "https://claude.ai"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "Industry benchmark for generative voice synthesis, emotional text-to-speech, instant voice cloning, and audio localization across 32 languages.",
+    "pricing_tier": "Freemium",
+    "category": "Audio & Voice",
+    "skill_level": "Beginner",
+    "website_url": "https://elevenlabs.io"
+  },
+  {
+    "name": "Suno",
+    "description": "Generative music AI that creates full radio-ready songs with vocals, instrumentals, harmony, and song structure from simple text prompts.",
+    "pricing_tier": "Freemium",
+    "category": "Audio & Voice",
+    "skill_level": "Beginner",
+    "website_url": "https://suno.com"
+  },
+  {
+    "name": "Udio",
+    "description": "High-fidelity AI music generation platform offering granular stem control, genre blending, section extension, and expressive vocal styles.",
+    "pricing_tier": "Freemium",
+    "category": "Audio & Voice",
+    "skill_level": "Beginner",
+    "website_url": "https://www.udio.com"
+  },
+  {
+    "name": "Whisper by OpenAI",
+    "description": "Robust, open-source automatic speech recognition system trained on 680,000 hours of multilingual data for audio transcription and translation.",
+    "pricing_tier": "Free",
+    "category": "Audio & Voice",
+    "skill_level": "Developer",
+    "website_url": "https://github.com/openai/whisper"
+  },
+  {
+    "name": "Otter.ai",
+    "description": "AI meeting assistant that automatically connects to Zoom, Google Meet, and Teams calls to transcribe audio, record slides, and generate action summaries.",
+    "pricing_tier": "Freemium",
+    "category": "Audio & Voice",
+    "skill_level": "Beginner",
+    "website_url": "https://otter.ai"
+  },
+  {
+    "name": "Murf.ai",
+    "description": "Versatile AI voice generator with over 120 natural-sounding voices for e-learning videos, corporate presentations, and advertising voiceovers.",
+    "pricing_tier": "Freemium",
+    "category": "Audio & Voice",
+    "skill_level": "Beginner",
+    "website_url": "https://murf.ai"
+  },
+  {
+    "name": "Midjourney",
+    "description": "Premier text-to-image diffusion model renowned for breathtaking aesthetics, photorealistic rendering, volumetric lighting, and artistic versatility.",
+    "pricing_tier": "Paid",
+    "category": "Image & Design",
+    "skill_level": "Beginner",
+    "website_url": "https://www.midjourney.com"
+  },
+  {
+    "name": "Flux.1",
+    "description": "Open-weights frontier image synthesis model from Black Forest Labs, offering state-of-the-art prompt following, visual quality, and typography rendering.",
+    "pricing_tier": "Free",
+    "category": "Image & Design",
+    "skill_level": "Developer",
+    "website_url": "https://blackforestlabs.ai"
+  },
+  {
+    "name": "Ideogram",
+    "description": "Generative image platform celebrated for accurate typographic text rendering inside images, logo graphics, poster design, and typography artwork.",
+    "pricing_tier": "Freemium",
+    "category": "Image & Design",
+    "skill_level": "Beginner",
+    "website_url": "https://ideogram.ai"
+  },
+  {
+    "name": "Recraft",
+    "description": "AI graphic design engine built specifically for professional designers to generate vector SVGs, 3D icons, clean brand assets, and consistent illustration styles.",
+    "pricing_tier": "Freemium",
+    "category": "Image & Design",
+    "skill_level": "Beginner",
+    "website_url": "https://www.recraft.ai"
+  },
+  {
+    "name": "Photoroom",
+    "description": "AI-powered image editor and photo studio that automatically removes backgrounds, generates realistic studio lighting, and creates product showcases.",
+    "pricing_tier": "Freemium",
+    "category": "Image & Design",
+    "skill_level": "Beginner",
+    "website_url": "https://www.photoroom.com"
+  },
+  {
+    "name": "Leonardo.ai",
+    "description": "Creative generative asset platform with fine-tuned models for game assets, character concept art, texture generation, and canvas inpainting.",
+    "pricing_tier": "Freemium",
+    "category": "Image & Design",
+    "skill_level": "Beginner",
+    "website_url": "https://leonardo.ai"
+  },
+  {
+    "name": "LlamaParse",
+    "description": "GenAI-first parser for complex tables, nested spreadsheets, and irregular vector layouts in PDFs into clean, structured Markdown for RAG pipelines.",
+    "pricing_tier": "Free",
+    "category": "Data & Documents",
+    "skill_level": "Developer",
+    "website_url": "https://www.llamaindex.ai/llamaparse"
+  },
+  {
+    "name": "Unstructured.io",
+    "description": "Enterprise data transformation pipeline designed to ingest, clean, and chunk unstructured documents like PDFs, PPTs, and emails directly into vector databases.",
+    "pricing_tier": "Freemium",
+    "category": "Data & Documents",
+    "skill_level": "Developer",
+    "website_url": "https://unstructured.io"
+  },
+  {
+    "name": "Chunkr.ai",
+    "description": "Visual document parsing engine converting PDF coordinates, complex multi-column layouts, and tables into pristine schema tokens without hallucination.",
+    "pricing_tier": "Paid",
+    "category": "Data & Documents",
+    "skill_level": "Developer",
+    "website_url": "https://chunkr.ai"
+  },
+  {
+    "name": "Julius AI",
+    "description": "AI data analysis assistant that interprets Excel and CSV files, writes and executes Python code, solves complex equations, and generates interactive graphs.",
+    "pricing_tier": "Freemium",
+    "category": "Data & Documents",
+    "skill_level": "Beginner",
+    "website_url": "https://julius.ai"
+  },
+  {
+    "name": "ChatPDF",
+    "description": "Interactive document assistant that allows users to chat with PDF files, research papers, legal contracts, and manuals with citations pointing to exact pages.",
+    "pricing_tier": "Freemium",
+    "category": "Data & Documents",
+    "skill_level": "Beginner",
+    "website_url": "https://www.chatpdf.com"
+  },
+  {
+    "name": "Rows AI",
+    "description": "Next-generation spreadsheet tool combining traditional grid calculations with built-in AI for automated lead enrichment, web research, and data cleaning.",
+    "pricing_tier": "Freemium",
+    "category": "Data & Documents",
+    "skill_level": "Beginner",
+    "website_url": "https://rows.com"
+  },
+  {
+    "name": "Voiceflow",
+    "description": "Collaborative design platform for teams to build, prototype, test, and deploy production-grade conversational AI agents and customer support assistants.",
+    "pricing_tier": "Freemium",
+    "category": "Chatbots & Agents",
+    "skill_level": "Beginner",
+    "website_url": "https://www.voiceflow.com"
+  },
+  {
+    "name": "Chatbase",
+    "description": "Custom AI chatbot builder that connects to website URLs, knowledge base docs, and PDFs to create branded customer support chatbots in minutes.",
+    "pricing_tier": "Freemium",
+    "category": "Chatbots & Agents",
+    "skill_level": "Beginner",
+    "website_url": "https://www.chatbase.co"
+  },
+  {
+    "name": "Botpress",
+    "description": "Developer-friendly conversational AI platform and bot engine with visual flow builder, code execution nodes, and seamless integrations.",
+    "pricing_tier": "Freemium",
+    "category": "Chatbots & Agents",
+    "skill_level": "Developer",
+    "website_url": "https://botpress.com"
+  },
+  {
+    "name": "Fin by Intercom",
+    "description": "Breakthrough AI customer service bot powered by frontier LLMs that accurately resolves up to 50% of support issues based entirely on verified company docs.",
+    "pricing_tier": "Paid",
+    "category": "Chatbots & Agents",
+    "skill_level": "Beginner",
+    "website_url": "https://www.intercom.com/fin"
+  },
+  {
+    "name": "CrewAI",
+    "description": "Open-source framework for orchestrating role-playing autonomous AI agents that collaborate sequentially or hierarchically to tackle complex multi-step tasks.",
+    "pricing_tier": "Free",
+    "category": "Chatbots & Agents",
+    "skill_level": "Developer",
+    "website_url": "https://www.crewai.com"
+  },
+  {
+    "name": "LangChain",
+    "description": "Foundational open-source developer framework for constructing context-aware LLM applications, retrieval chains, tools, and agent workflows in TypeScript and Python.",
+    "pricing_tier": "Free",
+    "category": "Chatbots & Agents",
+    "skill_level": "Developer",
+    "website_url": "https://www.langchain.com"
+  },
+  {
+    "name": "Perplexity",
+    "description": "Conversational answer engine delivering real-time web research summaries backed by cited sources, multi-query synthesis, and file upload reasoning.",
+    "pricing_tier": "Freemium",
+    "category": "Search & Research",
+    "skill_level": "Beginner",
+    "website_url": "https://www.perplexity.ai"
+  },
+  {
+    "name": "Consensus",
+    "description": "Academic research search engine using LLMs to scan over 200 million peer-reviewed papers and summarize the scientific consensus on questions.",
+    "pricing_tier": "Freemium",
+    "category": "Search & Research",
+    "skill_level": "Beginner",
+    "website_url": "https://consensus.app"
+  },
+  {
+    "name": "Elicit",
+    "description": "AI research assistant automating systematic literature reviews, finding relevant papers without keyword matching, and extracting key data into tables.",
+    "pricing_tier": "Freemium",
+    "category": "Search & Research",
+    "skill_level": "Beginner",
+    "website_url": "https://elicit.com"
+  },
+  {
+    "name": "Scite.ai",
+    "description": "Smart research citation tool that reveals how scientific papers have been cited, displaying context sentences and whether citations support or contrast findings.",
+    "pricing_tier": "Paid",
+    "category": "Search & Research",
+    "skill_level": "Beginner",
+    "website_url": "https://scite.ai"
+  },
+  {
+    "name": "Tavily",
+    "description": "Search engine API built specifically for AI agents and LLMs to retrieve structured, fact-grounded web content with low latency and zero web noise.",
+    "pricing_tier": "Freemium",
+    "category": "Search & Research",
+    "skill_level": "Developer",
+    "website_url": "https://tavily.com"
+  },
+  {
+    "name": "Exa.ai",
+    "description": "Neural search engine built for AI applications that searches the web using vector embeddings and semantic links rather than simple keywords.",
+    "pricing_tier": "Freemium",
+    "category": "Search & Research",
+    "skill_level": "Developer",
+    "website_url": "https://exa.ai"
+  }
+]

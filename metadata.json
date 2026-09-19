@@ -1,0 +1,7 @@
+{
+  "name": "AIFinder",
+  "description": "Discover the right AI tool for any task with natural language discovery and real-time intelligent matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
